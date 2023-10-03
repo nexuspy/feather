@@ -1,4 +1,4 @@
-# feather
+# *feather*
 # Weather App
 
 A simple weather app built with HTML, CSS, and JavaScript that allows users to check the current weather for a city.
